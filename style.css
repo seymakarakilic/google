@@ -1,0 +1,39 @@
+.logo {
+    margin-left:450px;
+}
+.search{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #efefef;
+}
+.src{
+    width:25%;
+}
+.table{
+    width: 100%;
+    float: left;
+    }
+.tbl{
+    width: 28%;
+    padding: 2%;
+    margin-right:1%;
+    background-color: #7EE5DA;
+    text-align: center;
+    float: left;
+}
+.tb2 {
+    width: 28%;
+    padding: 2%;
+    margin-right: 1%;
+    background-color:#70CCC2 ;
+    text-align: center;
+    float: left;
+}
+.tb3 {
+    width: 28%;
+    padding: 2%;
+    margin-right:1%;
+    background-color: #62B3AA;
+    text-align: center;
+    float: left;
+}
